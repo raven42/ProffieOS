@@ -32,7 +32,8 @@
 // #define CONFIG_FILE "config/proffieboard_v1_test_bench_config.h"
 // #define CONFIG_FILE "config/td_proffieboard_config.h"
 // #define CONFIG_FILE "config/teensy_audio_shield_micom.h"
-#define CONFIG_FILE "config/proffieboard_v2_ob4.h"
+// #define CONFIG_FILE "config/proffieboard_v2_ob4.h"
+#define CONFIG_FILE "config/custom_graflex_config.h"
 
 #ifdef CONFIG_FILE_TEST
 #undef CONFIG_FILE
